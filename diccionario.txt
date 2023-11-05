@@ -1,0 +1,72 @@
+asm,ensamblador,ejecutar codigo en lenguaje ensamblador
+auto,automatico,almacenar automaticamente
+bool,booleano,almacenar un valor booleano (verdadero o falso)
+break,interrumpir,finalizar la ejecucion de un ciclo o switch
+case,caso,definir una opcion en una declaracion switch
+catch,atrapar,manejar una excepcion en una declaracion try-catch
+char,caracter,almacenar un caracter (letra o simbolo)
+class,clase,definir una clase en programacion orientada a objetos
+const,constante,declarar una constante
+const_cast,convertir constante,realizar una conversion constante
+continue,continuar,ir a la siguiente iteracion de un ciclo
+default,por defecto,definir un valor predeterminado en una declaracion switch
+delete,eliminar,liberar memoria asignada dinamicamente
+do,hacer,realizar un bucle do-while
+double,doble,almacenar numeros en punto flotante de doble precision
+dynamic_cast,convertir dinamico,realizar una conversion dinamica
+else,sino,realizar una accion alternativa en una declaracion if-else
+enum,enumeracion,definir un tipo de dato enumerado
+explicit,explicito,indicar un constructor de conversion explicito
+extern,externo,declarar una variable o funcion externa
+false,falso,representar el valor booleano falso
+float,flotante,almacenar numeros en punto flotante de precision simple
+for,para,realizar un bucle for
+friend,amigo,permitir el acceso a una clase amiga
+goto,ir a,saltar a una etiqueta especifica en el codigo
+if,si,realizar una evaluacion condicional
+inline,en linea,definir una funcion en linea
+int,entero,almacenar numeros enteros
+long,largo,almacenar numeros enteros largos
+mutable,mutable,permitir la modificacion de miembros de una clase constante
+namespace,espacio de nombres,definir un espacio de nombres
+new,nuevo,asignar memoria dinamicamente
+operator,operador,definir un operador personalizado
+private,privado,limitar el acceso a miembros de clase a nivel privado
+protected,protegido,limitar el acceso a miembros de clase a nivel protegido
+public,publico,definir miembros de clase a nivel publico
+register,registrar,almacenar una variable en un registro de CPU
+reinterpret_cast,convertir reinterpretando,realizar una conversion reinterpretando
+return,retornar,devolver un valor de una funcion
+short,corto,almacenar numeros enteros cortos
+signed,firmado,indicar que un tipo de dato puede representar valores negativos
+sizeof,tamano de,obtener el tamano en bytes de un tipo de dato
+static,estatico,definir una variable o funcion estatica
+static_cast,convertir estatico,realizar una conversion estatica
+struct,estructura,definir una estructura de datos
+switch,interruptor,realizar una seleccion multiple
+template,plantilla,definir una plantilla de funcion o clase
+this,este,referenciar el objeto actual
+throw,lanzar,lancar una excepcion
+true,verdadero,representar el valor booleano verdadero
+try,intentar,manejar excepciones en un bloque try-catch
+typedef,definir tipo,crear un alias para un tipo de dato
+typeid,tipo de,obtener informacion de tipo en tiempo de ejecucion
+typename,nombre de tipo,usar un nombre de tipo en plantillas
+union,union,definir una union
+unsigned,sin signo,representar numeros enteros sin signo
+using,usando,importar un espacio de nombres
+virtual,virtual,definir funciones virtuales en herencia
+void,nada,representar la ausencia de tipo
+volatile,volatil,indicar que una variable puede cambiar inesperadamente
+while,mientras,realizar un bucle while
+exit,salir,terminar el programa
+endl,salto de linea,imprimir una nueva linea en la pantalla
+int main,entero principal,declarar una variable de tipo entero
+string,cadena,representar una cadena de caracteres
+cout,corte,imprimir en la salida estándar
+cin,leer,leer desde la entrada estándar
+}else{,entoces,realizar una acción alternativa en una declaracion if-else
+exit(1);,Salir(1);,salir del programa
+return,retorno,devolver un valor de una funcion
+endl;,finalizar;,finaliza el codigo
+,,
